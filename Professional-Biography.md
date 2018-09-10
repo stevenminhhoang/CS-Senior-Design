@@ -19,7 +19,7 @@ clarification using jQuery, JavaScript, Compass and Sass\.
 shopping process via Facebook Messenger\.
    * Used Node\.js, Express\.js along with Facebook Messenger API, Shopify Node API to create a RESTful API for building the web application and deployed using the Heroku platform\.
 
-* *Software Engineer Intern*, **Siemens PLM Software**, Milford, OH | August 2016 – December 2016
+* *Software Engineer Intern*, **Siemens PLM Software**, Milford, OH | August 2016 \– December 2016
    * Wrote scripts/cronjobs to execute automated scheduled software unit tests, autotests to trace, identify and
 document software problems, existing bugs from customers\’ reports to find out their causes using C++\.
    * Increased speed and memory efficiency of the application by implementing code migration to convert Python
@@ -34,4 +34,4 @@ code to C/C++ code and remastering old test cases\.
 * Mobile development, preferably iOS Applications\.
 * Full\-stack web development using modern framework, such as React\.js and Node\.js\.
 * Building RESTful APIs web services\.
-* Artificial Intelligence applications\.
+* Database applications with an emphasis on Artificial Intelligence\.
